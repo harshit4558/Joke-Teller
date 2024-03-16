@@ -7,7 +7,7 @@ Clone this repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/your-username/joke-teller.git
+git clone https://github.com/harshit4558/joke-teller.git
 Open the Application:
 Navigate to the directory where you cloned the repository and open the index.html file in your preferred web browser.
 
