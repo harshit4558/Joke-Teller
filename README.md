@@ -1,31 +1,30 @@
-Welcome to the Joke Teller project! This is a simple web application designed to bring a smile to your face with just a click of a button. With this project, you can enjoy random jokes at the click of a mouse.
+oke Teller 🤣
 
-How to Use:
+Welcome to the Joke Teller project! This is a simple web application designed to bring a smile to your face with just a click of a button. With this project, you can enjoy random jokes right in your browser!
 
-Clone the Repository:
-Clone this repository to your local machine using the following command:
+Project Link
 
-bash
-Copy code
-git clone https://github.com/harshit4558/joke-teller.git
-Open the Application:
-Navigate to the directory where you cloned the repository and open the index.html file in your preferred web browser.
+Check out the live version here: Joke Teller on Vercel
 
-Click the Button:
-Once the application is open, simply click the "Tell me a Joke" button to hear a random joke.
+How to Use
 
-Enjoy the Laughter:
-Sit back, relax, and enjoy the joke! If you're not satisfied with the joke you hear, feel free to click the button again for another one.
+	1.	Visit the Link: Open the Joke Teller app in your web browser.
+	2.	Click the Button: Once the app is loaded, simply click the “Tell me a Joke” button to get a random joke.
+	3.	Enjoy the Laughter: Sit back and enjoy! Not satisfied with one joke? Click again for another!
 
-Contributing:
+Contributing
 
-Contributions to this project are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
+Contributions are welcome! If you have ideas for new features, improvements, or bug fixes, feel free to open an issue or submit a pull request.
 
+Acknowledgments
 
-Acknowledgments:
+Special thanks to @sv443 for providing the joke API used in this project.
 
-This project was inspired by the joy of sharing jokes and laughter. Special thanks to @sv443 for providing the joke API used in this project.
+Feedback
 
+Your feedback is valuable! If you have suggestions for improvements, please reach out or open an issue on the GitHub repository.
+
+Thank you for using Joke Teller! 😄 Keep laughing!
 Feedback:
 
 If you have any feedback or suggestions for this project, please don't hesitate to reach out. Your input is highly valued and appreciated.
